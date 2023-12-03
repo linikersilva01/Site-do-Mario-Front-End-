@@ -2,8 +2,6 @@
   Site do filme Mario Bros
 </h1>
 
-C:\Users\pc\Pictures\Screenshots\Captura de tela 2023-12-02 234904.png
-
 <p align="center">
   <img src=".github/preview.png" width="100%" />
 </p>
