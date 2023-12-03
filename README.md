@@ -8,6 +8,7 @@ C:\Users\pc\Pictures\Screenshots\Captura de tela 2023-12-02 234904.png
   <img src=".github/preview.png" width="100%" />
 </p>
 
+
 ## 💻 Projeto
 
 Este projeto foi desenvolvido como front end do site do filme **Mario Bros** ao usar _HTML_ e _CSS_.
